@@ -3,7 +3,7 @@ title: My Site
 timezone: UTC
 collections:
   articles:
-    title: Articles
+    title: Posts
     output: true
     layout: article
   posts:
