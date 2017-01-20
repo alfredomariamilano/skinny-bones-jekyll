@@ -6,11 +6,11 @@ collections:
     title: Posts
     output: true
     layout: article
-  posts-original:
-    title: Posts
-    output: true
   posts:
     title: Posts
+    output: true
+  posts-original:
+    title: Posts-original
     output: true
   uploads:
     title: Uploads
