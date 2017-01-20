@@ -1,6 +1,8 @@
 ---
 title: testing again
 date: 2017-01-20 10:27:00 Z
+image:
+  teaser: "/uploads/WP_20170119_07_52_18_Pro.jpg"
 ---
 
 # I'm testing right now.
