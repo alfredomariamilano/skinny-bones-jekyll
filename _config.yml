@@ -7,7 +7,7 @@ collections:
     output: true
     layout: article
   posts:
-    title: Posts
+    title: Postsoriginal
     output: true
   uploads:
     title: Uploads
