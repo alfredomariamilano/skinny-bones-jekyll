@@ -9,7 +9,7 @@ collections:
   posts:
     title: Posts
     output: true
-    PERMALINK: articles
+    PERMALINK: posts
     LAYOUT: article
   posts-original:
     title: Posts-original
